@@ -1,3 +1,3 @@
-FROM  danuamirudin/freepbx-danu:v1
+FROM  danuamirudin/freepbx-danu:latest
 
 CMD ["usr/sbin/init"]
